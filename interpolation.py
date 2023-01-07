@@ -7,6 +7,7 @@ from random import randint
 #entry points
 x1 = [0, 1, 2, 3, 4, 5]
 y1 = [-1, 0, 3, 8, 15, 24]
+
 #x1 = sorted(list(set(np.random.uniform(-10, 10, 100).tolist())))
 #y1 = np.random.uniform(-30, 30, len(x1)).tolist()
 #x1 = sorted(list(set(np.random.randint(-10, 10, 17).tolist())))
